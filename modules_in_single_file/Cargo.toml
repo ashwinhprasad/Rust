@@ -1,5 +1,5 @@
 [package]
-name = "options_enum"
+name = "modules_in_single_file"
 version = "0.1.0"
 edition = "2021"
 
