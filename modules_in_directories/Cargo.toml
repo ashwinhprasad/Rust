@@ -1,5 +1,5 @@
 [package]
-name = "modules_in_separate_file"
+name = "modules_in_directories"
 version = "0.1.0"
 edition = "2021"
 
